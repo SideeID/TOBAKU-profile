@@ -14,5 +14,5 @@ Lainnya :
 git init
 git status
 git add .
-git git commit -m "first commit"
-git push -u origin main
+git commit -m "first commit"
+git push -u origin master
