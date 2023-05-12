@@ -14,3 +14,9 @@ body {
 section {
   padding-top: 3rem;
 }
+
+#map {
+  width: 80%;
+  height: 400px;
+  margin: 20px 0px;
+}
