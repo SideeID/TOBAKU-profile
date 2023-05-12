@@ -10,3 +10,9 @@ Lainnya :
 [getwaves](https://getwaves.io/ "Getwaves")   
 [jamiewilson](https://github.com/jamiewilson/form-to-google-sheets "jamiewilson")
 [typing text](https://github.com/mattboldt/typed.js/ "Jamie Wilson")
+
+git init
+git status
+git add .
+git git commit -m "first commit"
+git push -u origin main
