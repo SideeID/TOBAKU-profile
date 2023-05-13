@@ -1,3 +1,5 @@
+AOS.init();
+
 var typed = new Typed(".typing", {
   strings: [
     "Toko berbagai macam alat dan bahan kue.",
@@ -6,6 +8,7 @@ var typed = new Typed(".typing", {
   typeSpeed: 100,
   delaySpeed: 300,
   loop: true,
+  startDelay: 200,
 });
 
 const scriptURL =

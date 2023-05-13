@@ -6,13 +6,11 @@ Tutorial video WPU :
 [NGOBAR#28](https://youtu.be/65Jv9Y13eVo "Web Programming UNPAS")  
 [NGOBAR#29](https://youtu.be/2XosKncBoQ4 "Web Programming UNPAS")  
 Lainnya :  
-[bootstrap](https://getbootstrap.com/ "Bootstrap")
-
-[getwaves](https://getwaves.io/ "Getwaves")
-
-[HTML form to google spreadsheets](https://github.com/jamiewilson/form-to-google-sheets "jamiewilson")
-
-[typing text effect](https://github.com/mattboldt/typed.js/ "Jamie Wilson")
+[bootstrap](https://getbootstrap.com/ "Bootstrap")  
+[getwaves](https://getwaves.io/ "Getwaves")  
+[HTML form to google spreadsheets](https://github.com/jamiewilson/form-to-google-sheets "jamiewilson")  
+[typing text effect](https://github.com/mattboldt/typed.js/ "Jamie Wilson")  
+[AOS effect](https://github.com/michalsnik/aos "Michał Sajnóg")
 
 git init
 git status
