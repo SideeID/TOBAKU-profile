@@ -1,5 +1,8 @@
 # Membuat website company profile menggunakan Bootstrap 5
 
+Lihat hasilnya dari tautan ini :   
+[Profile TOBAKU](https://dimas-anjaymabar.github.io/tobaku-profile/ "preview")  
+
 Referensi :  
 Tutorial video WPU :  
 [NGOBAR#27](https://youtu.be/LkR-9Z1sle8 "Web Programming UNPAS")  
@@ -11,9 +14,3 @@ Lainnya :
 [HTML form to google spreadsheets](https://github.com/jamiewilson/form-to-google-sheets "jamiewilson")  
 [typing text effect](https://github.com/mattboldt/typed.js/ "Jamie Wilson")  
 [AOS effect](https://github.com/michalsnik/aos "Michał Sajnóg")
-
-git init
-git status
-git add .
-git commit -m "first commit"
-git push -u origin master
