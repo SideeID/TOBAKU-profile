@@ -1,7 +1,9 @@
 # Membuat website company profile menggunakan Bootstrap 5
 
-Lihat hasilnya dari tautan ini :   
-[Profile TOBAKU](https://dimas-anjaymabar.github.io/tobaku-profile/ "preview")  
+Masih ada pengembangan
+
+Lihat hasilnya dari tautan ini :  
+[Profile TOBAKU](https://dimas-anjaymabar.github.io/tobaku-profile/ "preview")
 
 Referensi :  
 Tutorial video WPU :  
